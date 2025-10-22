@@ -104,16 +104,27 @@ Execute as células na ordem:
 # Estrutura do Repositório
 .
 ├── notebooks/
+
 │   └── transfer-learning_cats-vs-dogs.ipynb
+
 ├── models/
+
 │   ├── mobilenetv2_feature_extractor.keras
+
 │   └── mobilenetv2_finetuned.keras
+
 ├── images/ 
+
 │   ├── curves_freeze.png
+
 │   ├── curves_ft.png
+
 │   ├── confmat_phase1.png
+
 │   └── confmat_phase2.png
+
 ├── requirements.txt
+
 └── README.md
 
 
