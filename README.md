@@ -37,7 +37,7 @@ Cats vs Dogs (filtered) — 2 classes (gatos e cachorros).
 O notebook baixa automaticamente via tf.keras.utils.get_file.
 Você pode substituir por qualquer dataset com 2 classes do seu interesse.
 
-# Resultados (Resumo)
+# Resultados
 
 Validação (pré - pós Fine-Tuning)
 
