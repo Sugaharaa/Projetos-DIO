@@ -1,0 +1,16 @@
+# Core
+tensorflow>=2.12,<3.0
+
+# Numérico & visualização
+numpy>=1.23
+matplotlib>=3.7
+seaborn>=0.12
+
+# ML utilitários
+scikit-learn>=1.2
+tqdm>=4.66
+pillow>=9.5
+
+# Compatibilidade TF (evita conflitos comuns)
+protobuf>=3.20,<5
+
